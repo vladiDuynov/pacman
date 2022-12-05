@@ -1,0 +1,69 @@
+body {
+  background-color: black;
+  color:white;
+}
+
+.cell {
+  width: 40px;
+  height: 40px;
+  text-align: center;
+  font-size: 1.5em;
+}
+
+/* .formLine {
+  margin:10px;
+  padding:10px;
+  background-color: cornflowerblue;
+} */
+
+.modal {
+  display: inline-block;
+  border: solid 3px grey;
+  width: 200px;
+  height: 100px;
+  background-color: rgb(39, 125, 153);
+  text-align: center;
+  color: black;
+  font-size: 32px;
+  opacity: 0;
+  /* transform: rotate(90deg); */
+}
+
+/* .game-over-modal {
+  display: inline-block;
+  border: solid 3px grey;
+  width: 200px;
+  height: 100px;
+  background-color: rgb(39, 125, 153);
+  text-align: center;
+  color: black;
+  font-size: 32px;
+  opacity: 0;
+} */
+
+/* .victory-modal {
+  display: inline-block;
+  border: solid 3px grey;
+  width: 200px;
+  height: 100px;
+  background-color: rgb(39, 125, 153);
+  text-align: center;
+  color: black;
+  font-size: 32px;
+  opacity: 0;
+} */
+
+.restart-button {
+  margin: auto;
+  margin-top: 30px;
+  background-color: blue;
+  color: rgb(230, 221, 221);
+}
+
+
+.play-again-button {
+  margin: auto;
+  margin-top: 30px;
+  background-color: blue;
+  color: rgb(230, 221, 221);
+}
